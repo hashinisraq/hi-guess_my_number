@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(164, 159, 185);
+    text-align: center;
+}
+
+.heading {
+    padding: 20px;
+    color: rgb(2, 63, 63);
+}
+
+.result {
+    font-weight: bold;
+    border: 1px solid rgb(13, 13, 22);
+    margin-left: 600px;
+    margin-right: 600px;
+    padding: 10px;
+}
+
+.option {
+    padding: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 15px;
+}
+
+.check {
+    height: 39px;
+    width: 20%;
+    border: 1px solid rgb(13, 13, 22);
+}
+
+#number {
+    text-align: center;
+    height: 35px;
+    width: 44%;
+    border: 1px solid rgb(13, 13, 22);
+}
+
+.guessAgain {
+    height: 39px;
+    width: 30%;
+    border: 1px solid rgb(13, 13, 22);
+}
