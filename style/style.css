@@ -17,10 +17,9 @@ body {
 }
 
 .option {
-    padding: 50px;
+    padding: 40px;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 15px;
+    grid-template-columns: 1fr;
 }
 
 .check {
