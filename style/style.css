@@ -11,8 +11,7 @@ body {
 .result {
     font-weight: bold;
     border: 1px solid rgb(13, 13, 22);
-    margin-left: 600px;
-    margin-right: 600px;
+    margin: 0 36%;
     padding: 10px;
 }
 
